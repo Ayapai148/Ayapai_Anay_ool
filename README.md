@@ -18,4 +18,5 @@
 
 ### 📫 Как со мной связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/CTRl_C_CTRl_V0)
+[![ВКонтакте](https://img.shields.io/badge/ВКонтакте-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ayapai_17)
 Email: "ayapai437@gmail.com"
